@@ -1,7 +1,5 @@
 # 推荐系统科研训练笔记
 
-姓名拼音：`liming`
-
 GitHub 仓库：<https://github.com/llemmm/recsys-research-training-liming>
 
 本仓库用于保存推荐系统科研入门培训中的课程作业、假期学习计划、每日学习记录和个人知识库。笔记使用 Markdown 编写，可直接作为 Obsidian 仓库打开，并通过 Git 记录学习过程。
