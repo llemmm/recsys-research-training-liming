@@ -8,14 +8,14 @@
 
 本次作业围绕“真实检索过程和可核验候选论文”展开。根据课程要求，我完成了以下内容：
 
-| 要求 | 完成情况 | 证据 |
-|---|---|---|
-| 真实检索记录 | 已完成 | DBLP 检索截图、Google Scholar 核验截图 |
-| 至少 3 篇候选论文卡片 | 已完成 | LLM2Rec、LLaRA、Data-efficient Fine-tuning |
-| Zotero 归档 | 已完成 | Zotero 分类与条目截图 |
-| 至少 1 篇完整文献卡片 | 已完成 | 三篇论文均整理为完整卡片 |
-| 选择第六课精读对象 | 已完成 | 推荐选择 LLM2Rec |
-| BibTeX/元数据核验 | 已完成 | 以 DBLP 条目为准 |
+| 要求           | 完成情况 | 证据                                       |
+| ------------ | ---- | ---------------------------------------- |
+| 真实检索记录       | 已完成  | DBLP 检索截图、Google Scholar 核验截图            |
+| 至少 3 篇候选论文卡片 | 已完成  | LLM2Rec、LLaRA、Data-efficient Fine-tuning |
+| Zotero 归档    | 已完成  | Zotero 分类与条目截图                           |
+| 至少 1 篇完整文献卡片 | 已完成  | 三篇论文均整理为完整卡片                             |
+| 选择第六课精读对象    | 已完成  | 推荐选择 LLM2Rec                             |
+| BibTeX/元数据核验 | 已完成  | 以 DBLP 条目为准                              |
 
 ## 2. 检索标准说明
 
@@ -38,9 +38,12 @@
 
 ### 3.1 DBLP 初始检索记录
 
-![DBLP 检索过程](assets/第五次作业截图/检索.png)
+![DBLP 检索过程|697](assets/第五次作业截图/检索.png)
 
-说明：该截图记录了在 DBLP 中以推荐系统、LLM-based recommendation、sequential recommendation 等关键词进行检索的过程。该步骤用于从可信论文数据库中定位推荐系统方向的 CCF-A 会议论文。
+![[检索2.png|697]]
+
+![[检索3.png]]
+说明：该截图记录了在 DBLP 中以recommendation、Large Language Models recommendation、LLM recommendation等关键词进行检索的过程。该步骤用于从可信论文数据库中定位推荐系统方向的 CCF-A 会议论文。
 
 ### 3.2 论文 1：LLM2Rec 检索与核验
 
